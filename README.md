@@ -14,7 +14,14 @@ Atuei na área de Jogos Digitais por mais de 3 anos, atualmente estou em transi�
 - Aprendendo: SQL, Power BI, Estatística Aplicada.
 - Universidade: Jogos Digitais, Veiga de Almeida.
 
+## Projetos Recentes
 <a href="https://github.com/giovanilourenco/PokePythonAPI">TeamBuilder PokeAPI</a>
+<a href="https://github.com/giovanilourenco/ClassificadorPython">Organizador Python</a>
+
+## Portfólio em Games
+<a href="https://giovanilourenco.github.io/portfolio/">Portfólio</a>
+<a href="https://altf4gamestudio.itch.io/click-dimension">Click Dimension</a>
+
 
 
 
