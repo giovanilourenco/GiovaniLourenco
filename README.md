@@ -1,7 +1,7 @@
 ## Olá, tudo bem?
 Eu me chamo Giovani Lourenço, sou especialista em Game Design. Vivo no Rio de Janeiro, Brasil.
 Atuei na área de Jogos Digitais por mais de 3 anos, atualmente estou em transição de carreira para Desenvolvedor em Python e Dados.
-</br>
+</br></br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="40" height="40" />
 
