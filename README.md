@@ -10,8 +10,11 @@ Atuei na área de Jogos Digitais por mais de 3 anos, atualmente estou em transi�
 - Nome: Giovani Lourenço.
 - Idade: 28.
 - Cidade: Rio de Janeiro.
+- Skills: Python, Javascript, Godot, Unity, C#
 - Aprendendo: SQL, Power BI, Estatística Aplicada.
 - Universidade: Jogos Digitais, Veiga de Almeida.
+
+<a href="https://github.com/giovanilourenco/PokePythonAPI">TeamBuilder PokeAPI</a>
 
 
 
