@@ -3,7 +3,10 @@ Eu me chamo Giovani Lourenço, sou especialista em Game Design. Vivo no Rio de J
 Atuei na área de Jogos Digitais por mais de 3 anos, atualmente estou em transição de carreira para Desenvolvedor em Python e Dados.
 </br></br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# Logo" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas Logo" width="50" height="50" />
+
 
 
 ## Informações
