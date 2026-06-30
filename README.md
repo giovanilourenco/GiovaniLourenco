@@ -6,14 +6,14 @@ Atuei na área de Jogos Digitais por mais de 3 anos, atualmente estou em transi�
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# Logo" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas Logo" width="50" height="50" />
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" alt="Godot Logo" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50" height="50" />
 
 ## Informações
 - Nome: Giovani Lourenço.
 - Idade: 28.
 - Cidade: Rio de Janeiro.
-- Skills: Python, Javascript, Godot, Unity, C#
+- Skills: Python, Javascript, Godot, Unity, C#, Automação, API.
 - Aprendendo: SQL, Power BI, Estatística Aplicada.
 - Universidade: Jogos Digitais, Veiga de Almeida.
 
